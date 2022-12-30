@@ -1,0 +1,49 @@
+.Player{
+    width: 80%;
+    height: 687px;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+body{
+    background-color:rgb(66, 68, 69)
+}
+.des{
+    color: #ffffff;
+    padding-left: 10%;
+}
+.title{
+	max-width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: antiquewhite;
+    font-size: 75px;
+    line-height: 65px;
+    font-weight: 800;
+    letter-spacing: 0px;
+}
+.img{
+    width: 200px;
+    height: 300px;
+}
+.titl{
+	max-width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 70px;
+    line-height: 65px;
+    font-weight: 700;
+    letter-spacing: 0px;
+}
+.watch-movie-1{
+	margin-top: 10px;
+    padding: 10px 35px 10px;
+    border-radius: 4px;
+    background-color:yellow;
+    font-size: 13px;
+    line-height: 30px;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}

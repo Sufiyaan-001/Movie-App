@@ -1,0 +1,33 @@
+.box1{
+    background-color: #222;
+    border: 2px solid #0000;
+    position: relative;
+    animation: zoomout .3s;
+}
+ul{
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+body{
+    background-color: rgb(66, 68, 69);
+}
+.watch-movie-1{
+	margin-top: 10px;
+    padding: 10px 35px 10px;
+    border-radius: 4px;
+    background-color:yellow;
+    font-size: 13px;
+    line-height: 30px;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.sub{
+    background-color: #0c2738;
+}
